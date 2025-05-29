@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Usuário logado: $zethw0w"
-echo "Diretório inicial: $zethw0w"
+echo "Usuário logado: $USERNAME"
+echo "Diretório inicial: $USERPROFILE"
